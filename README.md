@@ -2,7 +2,7 @@
 
 
 <br>
-<h1>🌱 Desarrollador Full Stack</h1>
+<h1>🌱 Desarrollador Web Full Stack</h1>
 
 
 <h2>Mis Lenguajes y Herramientas:</h2>
