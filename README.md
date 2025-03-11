@@ -3,9 +3,10 @@
 
 <br>
 <h1>🌱 Desarrollador Full Stack</h1>
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+
 
 <h2>Mis Lenguajes y Herramientas:</h2>
+
 <br>
 <div displey="flex" >
 <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg"</img>
@@ -22,13 +23,6 @@
 <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/axios/axios-plain-wordmark.svg"</img>
 <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/github/github-original.svg"</img>
 <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/git/git-original.svg"</img>
-
-                 
-                 
-                
-                 
-
-  
 </div>
 
 
